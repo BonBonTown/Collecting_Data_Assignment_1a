@@ -1,4 +1,3 @@
-# Collecting_Data_Assignment_1a
 # A Dataset of Artists' Information from MoMA
 
 ## General Description
