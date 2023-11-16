@@ -1,4 +1,4 @@
-# A Dataset of Artists' Information from MoMA
+# A Dataset of Artists' Information from The Museum of Modern Art (MoMA)
 
 ## General Description
 This folder contains a dataset named **Artists**, one of the subsets from **The Museum of Modern Art (MoMA) Collection**, a dataset released on November 1, 2022 and created to collect the information about the artworks and artists in the museum.
